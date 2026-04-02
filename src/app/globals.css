@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@400;500;600&display=swap");
+
+:root {
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+  --card-bg: #ffffff;
+  --card-shadow: 0 -4px 30px rgba(0, 0, 0, 0.1);
+  --terracotta: #C45D3E;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0f0f0f;
+    --foreground: #e8e4e0;
+    --card-bg: #1a1a1a;
+    --card-shadow: 0 -4px 30px rgba(0, 0, 0, 0.4);
+  }
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "DM Sans", system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100dvh;
+  width: 100vw;
+}
+
+.mapboxgl-ctrl-logo,
+.mapboxgl-ctrl-attrib {
+  display: none !important;
+}
+
+/* Bottom sheet drag handle */
+.drag-handle {
+  width: 36px;
+  height: 4px;
+  border-radius: 2px;
+  background: #ccc;
+  margin: 8px auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  .drag-handle {
+    background: #555;
+  }
+
+  .mapboxgl-map {
+    filter: brightness(0.85);
+  }
+}

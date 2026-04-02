@@ -1,0 +1,482 @@
+[
+  {
+    "id": "jemaa-el-fna",
+    "title": "Jemaa el-Fna",
+    "subtitle": "The Assembly of the Dead",
+    "lat": 31.6258,
+    "lng": -7.9891,
+    "card_text": "UNESCO declared this square an intangible heritage of humanity — not for the buildings, but for what happens in it. Every evening, halqa circles form: storytellers, musicians, herbalists, each drawing a crowd. The food stalls arrive at dusk and vanish by midnight. The square has no fixed identity. It reinvents itself every night.",
+    "category": "landmark",
+    "darija_phrase": {
+      "word": "jama3",
+      "meaning": "gathering / assembly",
+      "pronunciation": "jah-MAH",
+      "context": "The name may mean 'assembly of the dead' — possibly referring to public executions held here centuries ago"
+    },
+    "source": "UNESCO / Wikipedia"
+  },
+  {
+    "id": "koutoubia-mosque",
+    "title": "Koutoubia Mosque",
+    "subtitle": "Mosque of the Booksellers",
+    "lat": 31.6236,
+    "lng": -7.9934,
+    "card_text": "The minaret is 77 metres tall and nothing in Marrakech is allowed to be built higher. It was completed under the Almohad dynasty in 1195 and served as the model for the Giralda in Seville and the Hassan Tower in Rabat. The name comes from the booksellers who once set up market at its base.",
+    "category": "religion",
+    "darija_phrase": {
+      "word": "kutubiya",
+      "meaning": "of the booksellers",
+      "pronunciation": "koo-too-BEE-ya",
+      "context": "From 'kutub' meaning books — the souk around it once sold manuscripts"
+    },
+    "source": "Wikipedia / UNESCO"
+  },
+  {
+    "id": "ben-youssef-madrasa",
+    "title": "Ben Youssef Madrasa",
+    "subtitle": "14th Century Theological College",
+    "lat": 31.6318,
+    "lng": -7.9870,
+    "card_text": "Up to 900 students lived in cells no bigger than a closet, studying theology and law. The courtyard is covered in zellige tilework — hand-cut geometric mosaics that took artisans years to complete. Every pattern is mathematically precise. No two rooms on the upper floor are identical.",
+    "category": "architecture",
+    "darija_phrase": {
+      "word": "mdersa",
+      "meaning": "school / college",
+      "pronunciation": "m-DER-sa",
+      "context": "From the Arabic root 'd-r-s' meaning to study"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "bahia-palace",
+    "title": "Bahia Palace",
+    "subtitle": "Palace of the Brilliant",
+    "lat": 31.6215,
+    "lng": -7.9826,
+    "card_text": "Grand Vizier Ba Ahmed built this over 14 years in the 1890s to be the greatest palace of its time. The painted cedar ceilings were done by master craftsmen from Fes. When he died, the royal court looted it within hours — his wives and concubines were expelled the same day.",
+    "category": "architecture",
+    "darija_phrase": {
+      "word": "bahia",
+      "meaning": "the brilliant / the beautiful",
+      "pronunciation": "ba-HEE-ya",
+      "context": "Named for one of the vizier's wives"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "el-badi-palace",
+    "title": "El Badi Palace",
+    "subtitle": "The Incomparable Palace",
+    "lat": 31.6180,
+    "lng": -7.9856,
+    "card_text": "Sultan Ahmad al-Mansur built this with gold, turquoise, and Italian marble paid for with ransomed Portuguese prisoners. A century later, another sultan stripped it bare — the demolition took 12 years. Now storks nest on the ruined walls. The sunken gardens still hold water.",
+    "category": "history",
+    "darija_phrase": {
+      "word": "badi3",
+      "meaning": "incomparable / marvellous",
+      "pronunciation": "ba-DEE",
+      "context": "The name was meant to signal the wealth of the Saadian dynasty"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "saadian-tombs",
+    "title": "Saadian Tombs",
+    "subtitle": "Royal Burial Grounds, 16th Century",
+    "lat": 31.6171,
+    "lng": -7.9888,
+    "card_text": "A rival dynasty sealed these tombs behind a wall in the 1600s. They stayed hidden for over 300 years until a French aerial survey rediscovered them in 1917. Inside: 66 Saadian royals in three rooms, the finest decorated with carved Carrara marble and honeycomb muqarnas ceilings.",
+    "category": "history",
+    "darija_phrase": {
+      "word": "qbur",
+      "meaning": "tomb / grave",
+      "pronunciation": "k-BOOR",
+      "context": "The royal tombs are called 'qbur sa3diyin' in Darija"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "majorelle-garden",
+    "title": "Majorelle Garden",
+    "subtitle": "Jardin Majorelle",
+    "lat": 31.6417,
+    "lng": -7.9816,
+    "card_text": "French painter Jacques Majorelle spent 40 years building this garden and invented the cobalt blue it's painted in — now called Majorelle Blue. Yves Saint Laurent and Pierre Bergé bought it in 1980 to save it from developers. Saint Laurent's ashes were scattered here in 2008.",
+    "category": "nature",
+    "darija_phrase": {
+      "word": "jrda",
+      "meaning": "garden",
+      "pronunciation": "jer-DA",
+      "context": "Marrakech means 'Land of God' in Amazigh — the gardens are central to the city's identity"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "mellah",
+    "title": "The Mellah",
+    "subtitle": "Jewish Quarter",
+    "lat": 31.6190,
+    "lng": -7.9830,
+    "card_text": "Morocco's Jewish community dates back 2,000 years. This mellah was created in 1558 — the word comes from 'melh' (salt), possibly because Jews were tasked with salting the heads of executed criminals. At its peak, 35,000 Jews lived here. Today the cemetery remains, and the balconied houses still face inward.",
+    "category": "history",
+    "darija_phrase": {
+      "word": "mellah",
+      "meaning": "Jewish quarter / salt",
+      "pronunciation": "mel-LAH",
+      "context": "Every major Moroccan city had a mellah — a designated Jewish quarter"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "mouassine-fountain",
+    "title": "Mouassine Fountain",
+    "subtitle": "16th Century Public Fountain",
+    "lat": 31.6295,
+    "lng": -7.9912,
+    "card_text": "Saadian sultan built this fountain complex in the 1560s with three basins: one for people, one for animals, one for washing. The carved cedar lintel above is original. Public fountains were political acts — providing water was how rulers proved their right to rule.",
+    "category": "architecture",
+    "darija_phrase": {
+      "word": "seqqaya",
+      "meaning": "fountain / water source",
+      "pronunciation": "se-QAI-ya",
+      "context": "Water is sacred in Islam — public fountains are acts of charity (sadaqa)"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "dar-si-said",
+    "title": "Dar Si Said Museum",
+    "subtitle": "Museum of Moroccan Arts",
+    "lat": 31.6210,
+    "lng": -7.9841,
+    "card_text": "Built by the brother of the Grand Vizier who built Bahia Palace — sibling rivalry in architecture. The collection inside spans centuries of Moroccan craft: carved cedar, Berber jewellery, High Atlas carpets, and painted wedding furniture. The courtyard riad is the exhibit most people miss.",
+    "category": "landmark",
+    "darija_phrase": {
+      "word": "dar",
+      "meaning": "house",
+      "pronunciation": "DAR",
+      "context": "A 'dar' is a traditional urban house — a 'riad' has a garden courtyard"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "tanneries",
+    "title": "The Tanneries",
+    "subtitle": "Traditional Leather Quarter",
+    "lat": 31.6340,
+    "lng": -7.9850,
+    "card_text": "The white vats are limestone. The brown ones contain pigeon dung — a softening agent used since the 11th century. The colour vats use saffron for yellow, poppy for red, indigo for blue, mint for green. Nothing has changed.",
+    "category": "craft",
+    "darija_phrase": {
+      "word": "dbbagh",
+      "meaning": "tanner / tannery",
+      "pronunciation": "d-BAGH",
+      "context": "From the Arabic root for 'to tan leather'"
+    },
+    "source": "Wikipedia / UNESCO"
+  },
+  {
+    "id": "rahba-kedima",
+    "title": "Rahba Kedima",
+    "subtitle": "Spice Square",
+    "lat": 31.6280,
+    "lng": -7.9888,
+    "card_text": "This was the old grain market. Now it sells spices, traditional medicines, and Berber cosmetics — argan oil, black soap, ghassoul clay. The apothecary stalls in the corners sell remedies that predate modern pharmacy. Dried chameleons and porcupine quills are not souvenirs; they are ingredients.",
+    "category": "market",
+    "darija_phrase": {
+      "word": "rahba",
+      "meaning": "square / open marketplace",
+      "pronunciation": "RAH-ba",
+      "context": "'Kedima' means old — this is the 'old square'"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "souk-semmarine",
+    "title": "Souk Semmarine",
+    "subtitle": "Main Souk Artery",
+    "lat": 31.6290,
+    "lng": -7.9890,
+    "card_text": "This is the main commercial artery of the medina. The covered iron lattice roof was added by the French in the 1920s. Before that, reed mats filtered the light. Each section of the souk is organised by trade: textiles here, babouche slippers further in. The organisation dates back centuries.",
+    "category": "market",
+    "darija_phrase": {
+      "word": "suq",
+      "meaning": "market / souk",
+      "pronunciation": "SOOK",
+      "context": "Each trade has its own souk — the system is medieval guild organisation"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "souk-teinturiers",
+    "title": "Souk des Teinturiers",
+    "subtitle": "The Dyers' Souk",
+    "lat": 31.6310,
+    "lng": -7.9880,
+    "card_text": "Look up. The skeins of dyed wool and silk hanging overhead are drying in the open air. The dyers work in the shops below, hands stained permanently. The colours come from natural sources — saffron, henna, indigo, pomegranate. This is one of the most photographed alleys in the medina.",
+    "category": "craft",
+    "darija_phrase": {
+      "word": "sabbagh",
+      "meaning": "dyer",
+      "pronunciation": "sab-BAGH",
+      "context": "The dyers' guild is one of the oldest trade organisations in the medina"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "almoravid-koubba",
+    "title": "Almoravid Koubba",
+    "subtitle": "Oldest Monument in Marrakech",
+    "lat": 31.6313,
+    "lng": -7.9867,
+    "card_text": "This small domed building is the only surviving Almoravid structure in Marrakech — everything else was destroyed by the Almohads who conquered after them. It was an ablution house for a mosque that no longer exists. The carved dome interior shows the origins of every decorative pattern used in Morocco since.",
+    "category": "architecture",
+    "darija_phrase": {
+      "word": "qubba",
+      "meaning": "dome / domed building",
+      "pronunciation": "QOO-ba",
+      "context": "A koubba is a small domed structure, often marking a saint's tomb"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "bab-agnaou",
+    "title": "Bab Agnaou",
+    "subtitle": "Gate of the Gnawa",
+    "lat": 31.6182,
+    "lng": -7.9893,
+    "card_text": "One of the 19 original gates of Marrakech, built by the Almohads in the 12th century. The name may come from the Berber word 'agnaw' meaning mute or deaf — or from the Gnawa people. It is the only stone gate in a city built almost entirely of rammed earth. The concentric arches are a signature Almohad design.",
+    "category": "architecture",
+    "darija_phrase": {
+      "word": "bab",
+      "meaning": "gate / door",
+      "pronunciation": "BAB",
+      "context": "Marrakech had 19 gates in its original walls — most are still standing"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "kasbah-mosque",
+    "title": "Kasbah Mosque",
+    "subtitle": "Mosque of Yacoub el-Mansour",
+    "lat": 31.6175,
+    "lng": -7.9880,
+    "card_text": "Built in 1190 by the same Almohad caliph who commissioned the Koutoubia. The turquoise and white minaret is distinctive — most Marrakech minarets are plain. Non-Muslims cannot enter, but the exterior tilework is visible from the street. The Saadian Tombs are just behind it.",
+    "category": "religion",
+    "darija_phrase": {
+      "word": "qasbah",
+      "meaning": "fortified citadel",
+      "pronunciation": "QAS-ba",
+      "context": "The kasbah quarter was the royal enclosure — mosques, palaces, and tombs clustered together"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "lazama-synagogue",
+    "title": "Lazama Synagogue",
+    "subtitle": "Oldest Active Synagogue in Marrakech",
+    "lat": 31.6188,
+    "lng": -7.9822,
+    "card_text": "Built in 1492 by Jews expelled from Spain. The interior courtyard has a painted timber gallery and an open-air bima. It is still active — Morocco is one of the few Arab countries where synagogues remain in use. The caretaker will show you around if you ask politely.",
+    "category": "religion",
+    "darija_phrase": {
+      "word": "knisa",
+      "meaning": "synagogue or church",
+      "pronunciation": "k-NEE-sa",
+      "context": "In Darija, 'knisa' refers to any non-Muslim house of worship"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "maison-photographie",
+    "title": "Maison de la Photographie",
+    "subtitle": "Historical Photography Museum",
+    "lat": 31.6322,
+    "lng": -7.9860,
+    "card_text": "A private collection of photographs of Morocco from 1870 to 1950. The images show the medina before tourism, before cars, before electricity. The rooftop café has one of the best views of the medina. The building itself is a restored riad.",
+    "category": "landmark",
+    "darija_phrase": {
+      "word": "tswira",
+      "meaning": "picture / photograph",
+      "pronunciation": "t-SWEE-ra",
+      "context": "Early photography in Morocco was met with suspicion — many believed cameras captured the soul"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "dar-el-bacha",
+    "title": "Dar el Bacha",
+    "subtitle": "Palace of the Pasha",
+    "lat": 31.6320,
+    "lng": -7.9920,
+    "card_text": "Thami el Glaoui, the Pasha of Marrakech, hosted Churchill, Roosevelt, and Charlie Chaplin here. He controlled southern Morocco like a feudal lord and collaborated with the French against the Sultan. After independence in 1956, his legacy was erased. The palace is now a museum and café.",
+    "category": "history",
+    "darija_phrase": {
+      "word": "bacha",
+      "meaning": "pasha / governor",
+      "pronunciation": "BA-sha",
+      "context": "The Glaoui family ruled Marrakech through French colonial rule until 1956"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "chrob-chouf-fountain",
+    "title": "Chrob ou Chouf Fountain",
+    "subtitle": "Drink and Look",
+    "lat": 31.6300,
+    "lng": -7.9875,
+    "card_text": "The name means 'drink and look' — drink the water, then look up at the carved cedar lintel above you. It is a Saadian-era public fountain from the 1560s. The woodcarving is among the finest in the medina. Most people walk past without looking up.",
+    "category": "architecture",
+    "darija_phrase": {
+      "word": "chrob",
+      "meaning": "drink",
+      "pronunciation": "SHROB",
+      "context": "'Chrob ou chouf' — drink and look — is an instruction carved into the fountain itself"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "koubba-baadyin",
+    "title": "Koubba Ba'adiyn",
+    "subtitle": "Almoravid Dome",
+    "lat": 31.6315,
+    "lng": -7.9869,
+    "card_text": "This is the same structure as the Almoravid Koubba, seen from the excavated level below street grade. The current street is three metres higher than the 12th-century ground level — a thousand years of city built on top of itself. The dome's interior carvings are the DNA of all Moroccan decorative art.",
+    "category": "architecture",
+    "darija_phrase": {
+      "word": "qadim",
+      "meaning": "old / ancient",
+      "pronunciation": "qa-DEEM",
+      "context": "Marrakech was founded in 1070 — the Almoravids built the first walls and irrigation"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "place-ferblantiers",
+    "title": "Place des Ferblantiers",
+    "subtitle": "Metalworkers' Square",
+    "lat": 31.6195,
+    "lng": -7.9850,
+    "card_text": "The tinsmiths and metalworkers make the pierced-metal lanterns you see everywhere in the medina. They cut the patterns by hand with chisels. The square was formerly part of the mellah. Recycled tin cans become the raw material — Fanta and Coca-Cola tins become lampshades.",
+    "category": "craft",
+    "darija_phrase": {
+      "word": "m3allem",
+      "meaning": "master craftsman",
+      "pronunciation": "m-AAL-em",
+      "context": "A m'aallem has completed years of apprenticeship — the title carries deep respect"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "cyber-park",
+    "title": "Cyber Park Moulay Abdeslam",
+    "subtitle": "Royal Garden Turned Public Park",
+    "lat": 31.6280,
+    "lng": -7.9940,
+    "card_text": "An 18th-century royal garden that Morocco's telecom agency converted into a public park with free wifi in 2005. The name is not ironic — it was one of Africa's first connected public spaces. The original garden layout and irrigation channels are Alaouite dynasty. Locals come here to escape the medina's density.",
+    "category": "nature",
+    "darija_phrase": {
+      "word": "jnan",
+      "meaning": "garden / park",
+      "pronunciation": "JNAN",
+      "context": "'Jnan' specifically refers to a large garden or orchard, different from a small courtyard garden"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "menara-gardens",
+    "title": "Menara Gardens",
+    "subtitle": "12th Century Olive Groves",
+    "lat": 31.6168,
+    "lng": -8.0070,
+    "card_text": "The Almohads planted these olive groves in the 12th century. The pavilion and reflecting pool were added in the 16th century. On clear days, the Atlas Mountains fill the background — this is the postcard view of Marrakech. The irrigation system uses underground channels called khettaras, dug by hand.",
+    "category": "nature",
+    "darija_phrase": {
+      "word": "menara",
+      "meaning": "lighthouse / lantern",
+      "pronunciation": "me-NA-ra",
+      "context": "The pavilion's green-tiled pyramid roof was a landmark visible from the city walls"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "agdal-gardens",
+    "title": "Agdal Gardens",
+    "subtitle": "Royal Orchards",
+    "lat": 31.6100,
+    "lng": -7.9830,
+    "card_text": "A walled royal garden stretching south from the palace — orange, fig, walnut, apricot, and olive orchards irrigated by khettaras from the Atlas foothills 30km away. The system is 900 years old and still works. Open to the public only on Fridays and Sundays when the king is not in residence.",
+    "category": "nature",
+    "darija_phrase": {
+      "word": "agdal",
+      "meaning": "walled meadow",
+      "pronunciation": "ag-DAL",
+      "context": "The word is Amazigh (Berber) in origin — a reminder of Marrakech's Berber foundations"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "bab-doukkala-mosque",
+    "title": "Bab Doukkala Mosque",
+    "subtitle": "16th Century Neighbourhood Mosque",
+    "lat": 31.6320,
+    "lng": -7.9970,
+    "card_text": "Built by Lalla Messaouda, mother of Sultan Ahmad al-Mansur, in the 1560s. It anchors an entire civic complex: mosque, fountain, hammam, and madrasa. Women rarely commissioned public buildings — this is an exception. The minaret follows the standard Almohad square form.",
+    "category": "religion",
+    "darija_phrase": {
+      "word": "hammam",
+      "meaning": "public bath",
+      "pronunciation": "ham-MAM",
+      "context": "Traditional hammams are gender-segregated — women go in the morning, men in the evening"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "zaouia-sidi-bel-abbes",
+    "title": "Zaouia of Sidi Bel Abbès",
+    "subtitle": "Patron Saint of Marrakech",
+    "lat": 31.6350,
+    "lng": -7.9910,
+    "card_text": "Sidi Bel Abbès is the most important of Marrakech's seven patron saints. He was a 12th-century Sufi mystic who devoted himself to the blind and disabled. The zaouia complex includes a mosque, charity kitchen, and hostel. Non-Muslims cannot enter but the neighbourhood around it is named for him.",
+    "category": "religion",
+    "darija_phrase": {
+      "word": "sidi",
+      "meaning": "my lord / saint",
+      "pronunciation": "SEE-dee",
+      "context": "The seven saints of Marrakech are called 'seb3atu rijal' — pilgrims visit all seven in one day"
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "foundouk",
+    "title": "The Foundouks",
+    "subtitle": "Historic Caravanserai",
+    "lat": 31.6305,
+    "lng": -7.9895,
+    "card_text": "Foundouks were merchant inns — traders stored goods on the ground floor and slept above. Marrakech had over 100. The courtyard structure is always the same: open centre, arcaded galleries, heavy wooden door. Most are now converted to workshops. Look through any heavy door in the souk — there might be one inside.",
+    "category": "architecture",
+    "darija_phrase": {
+      "word": "funduq",
+      "meaning": "inn / caravanserai",
+      "pronunciation": "fun-DOOK",
+      "context": "The word comes from the Greek 'pandocheion' — a universal inn. It entered Arabic through trade."
+    },
+    "source": "Wikipedia"
+  },
+  {
+    "id": "qissariat",
+    "title": "The Qissariat",
+    "subtitle": "Covered Luxury Market",
+    "lat": 31.6285,
+    "lng": -7.9885,
+    "card_text": "The qissariat are the covered, lockable market sections where the most valuable goods were sold: silk, gold, imported fabrics. They could be sealed at night. The layout has not changed — the most expensive goods are still sold in the centre of the souk, the cheapest on the edges. Medieval retail logic.",
+    "category": "market",
+    "darija_phrase": {
+      "word": "qissariya",
+      "meaning": "covered market / bazaar",
+      "pronunciation": "qi-SA-ree-ya",
+      "context": "From the Arabic root for 'to cut' — referring to fabric cutting, the original trade"
+    },
+    "source": "Wikipedia"
+  }
+]
