@@ -1,0 +1,272 @@
+[
+  {
+    "phrase": "salam",
+    "pronunciation": "sa-LAM",
+    "literal": "peace",
+    "meaning": "Hello",
+    "reply": "wa 3alaykum salam (and peace upon you)",
+    "when": "Universal greeting, any time of day, anyone",
+    "category": "greetings"
+  },
+  {
+    "phrase": "labas",
+    "pronunciation": "la-BAS",
+    "literal": "no harm",
+    "meaning": "How are you? / I'm fine",
+    "reply": "labas, hamdullah (fine, thanks to God)",
+    "when": "After the initial greeting — works as both question and answer",
+    "category": "greetings"
+  },
+  {
+    "phrase": "bslama",
+    "pronunciation": "b-SLA-ma",
+    "literal": "with peace",
+    "meaning": "Goodbye",
+    "reply": "llah ysalmek (God keep you safe)",
+    "when": "Leaving a shop, saying goodbye to anyone",
+    "category": "greetings"
+  },
+  {
+    "phrase": "shukran",
+    "pronunciation": "SHOO-kran",
+    "literal": "thanks",
+    "meaning": "Thank you",
+    "reply": "la shukran 3la wajib (no thanks needed for a duty)",
+    "when": "After any service, purchase, or kindness",
+    "category": "greetings"
+  },
+  {
+    "phrase": "la shukran",
+    "pronunciation": "la SHOO-kran",
+    "literal": "no thanks",
+    "meaning": "No thank you",
+    "reply": "",
+    "when": "Declining offers from shopkeepers — say it firmly but with a smile",
+    "category": "greetings"
+  },
+  {
+    "phrase": "smehli",
+    "pronunciation": "SMEH-lee",
+    "literal": "forgive me",
+    "meaning": "Excuse me",
+    "reply": "",
+    "when": "Getting someone's attention or squeezing through a crowd in the souk",
+    "category": "greetings"
+  },
+  {
+    "phrase": "bshhal",
+    "pronunciation": "b-SHHAL",
+    "literal": "for how much",
+    "meaning": "How much?",
+    "reply": "",
+    "when": "Point at what you want, then say this — the starting point of every negotiation",
+    "category": "shopping"
+  },
+  {
+    "phrase": "ghali",
+    "pronunciation": "GHA-lee",
+    "literal": "expensive",
+    "meaning": "Too expensive",
+    "reply": "",
+    "when": "Said with a slight head shake — the universal signal to start bargaining",
+    "category": "shopping"
+  },
+  {
+    "phrase": "rkhis",
+    "pronunciation": "r-KHEES",
+    "literal": "cheap",
+    "meaning": "Cheap / Make it cheaper",
+    "reply": "",
+    "when": "Asking for a lower price — often paired with a hand gesture",
+    "category": "shopping"
+  },
+  {
+    "phrase": "la",
+    "pronunciation": "LA",
+    "literal": "no",
+    "meaning": "No",
+    "reply": "",
+    "when": "Direct and universally understood — no explanation needed",
+    "category": "shopping"
+  },
+  {
+    "phrase": "wakha",
+    "pronunciation": "WAH-kha",
+    "literal": "okay",
+    "meaning": "Okay / Agreed / Deal",
+    "reply": "",
+    "when": "Sealing a deal, agreeing to a price, confirming plans",
+    "category": "shopping"
+  },
+  {
+    "phrase": "safi",
+    "pronunciation": "SA-fee",
+    "literal": "enough",
+    "meaning": "Enough / Done / That's it",
+    "reply": "",
+    "when": "Ending a negotiation, declining more tea, finishing a meal",
+    "category": "shopping"
+  },
+  {
+    "phrase": "fin",
+    "pronunciation": "FEEN",
+    "literal": "where",
+    "meaning": "Where?",
+    "reply": "",
+    "when": "Follow with the place name: 'fin Jemaa el-Fna?' — people will point",
+    "category": "directions"
+  },
+  {
+    "phrase": "limen",
+    "pronunciation": "lee-MEN",
+    "literal": "to the right",
+    "meaning": "Right",
+    "reply": "",
+    "when": "Understanding directions in the medina's labyrinth",
+    "category": "directions"
+  },
+  {
+    "phrase": "liser",
+    "pronunciation": "lee-SER",
+    "literal": "to the left",
+    "meaning": "Left",
+    "reply": "",
+    "when": "Understanding directions in the medina's labyrinth",
+    "category": "directions"
+  },
+  {
+    "phrase": "qrib",
+    "pronunciation": "QREEB",
+    "literal": "near",
+    "meaning": "Nearby / Close",
+    "reply": "",
+    "when": "Asking if something is close: 'wesh qrib?' (is it close?)",
+    "category": "directions"
+  },
+  {
+    "phrase": "b3id",
+    "pronunciation": "b-AEED",
+    "literal": "far",
+    "meaning": "Far away",
+    "reply": "",
+    "when": "If someone says this, consider a taxi — distances in the medina are deceptive",
+    "category": "directions"
+  },
+  {
+    "phrase": "derb",
+    "pronunciation": "DERB",
+    "literal": "alley / lane",
+    "meaning": "Side street / Alley",
+    "reply": "",
+    "when": "Addresses in the medina use derb names — 'derb' plus the alley name is the address system",
+    "category": "directions"
+  },
+  {
+    "phrase": "atay",
+    "pronunciation": "a-TAI",
+    "literal": "tea",
+    "meaning": "Mint tea",
+    "reply": "",
+    "when": "Refusing tea is impolite. Accepting tea does not obligate you to buy anything",
+    "category": "food"
+  },
+  {
+    "phrase": "khobz",
+    "pronunciation": "KHOBZ",
+    "literal": "bread",
+    "meaning": "Bread",
+    "reply": "",
+    "when": "Round flatbread served with every meal — used as a utensil, torn by hand",
+    "category": "food"
+  },
+  {
+    "phrase": "ma",
+    "pronunciation": "MA",
+    "literal": "water",
+    "meaning": "Water",
+    "reply": "",
+    "when": "Always buy bottled — 'ma mineral' for mineral water",
+    "category": "food"
+  },
+  {
+    "phrase": "zwin",
+    "pronunciation": "ZWEEN",
+    "literal": "beautiful / good",
+    "meaning": "Beautiful / Good / Nice",
+    "reply": "",
+    "when": "Complimenting anything — food, craftsmanship, someone's shop. Always appreciated",
+    "category": "food"
+  },
+  {
+    "phrase": "bnin",
+    "pronunciation": "b-NEEN",
+    "literal": "delicious",
+    "meaning": "Delicious",
+    "reply": "",
+    "when": "The highest compliment you can give someone's cooking",
+    "category": "food"
+  },
+  {
+    "phrase": "hamdullah",
+    "pronunciation": "ham-DOO-lah",
+    "literal": "praise God",
+    "meaning": "Thank God / I'm well",
+    "reply": "",
+    "when": "Response to 'how are you' — used by everyone regardless of how they actually feel",
+    "category": "food"
+  },
+  {
+    "phrase": "3afak",
+    "pronunciation": "aa-FAK",
+    "literal": "may God give you health",
+    "meaning": "Please",
+    "reply": "",
+    "when": "Making any request — adds politeness and respect",
+    "category": "emergency"
+  },
+  {
+    "phrase": "3awni",
+    "pronunciation": "AAW-nee",
+    "literal": "help me",
+    "meaning": "Help me!",
+    "reply": "",
+    "when": "Emergency use — Moroccans will respond immediately to this",
+    "category": "emergency"
+  },
+  {
+    "phrase": "tbib",
+    "pronunciation": "t-BEEB",
+    "literal": "doctor",
+    "meaning": "Doctor",
+    "reply": "",
+    "when": "Ask anyone 'fin tbib?' (where is a doctor?) — pharmacies are easier to find and can help with minor issues",
+    "category": "emergency"
+  },
+  {
+    "phrase": "bolis",
+    "pronunciation": "bo-LEES",
+    "literal": "police",
+    "meaning": "Police",
+    "reply": "",
+    "when": "Tourist police in Marrakech speak French and sometimes English",
+    "category": "emergency"
+  },
+  {
+    "phrase": "sbitar",
+    "pronunciation": "sbi-TAR",
+    "literal": "hospital",
+    "meaning": "Hospital",
+    "reply": "",
+    "when": "For serious emergencies — 'fin sbitar?' will get you directed quickly",
+    "category": "emergency"
+  },
+  {
+    "phrase": "bezzaf",
+    "pronunciation": "bez-ZAF",
+    "literal": "a lot / too much",
+    "meaning": "Too much / A lot",
+    "reply": "",
+    "when": "Useful in bargaining: 'bezzaf!' means the price is way too high",
+    "category": "shopping"
+  }
+]
