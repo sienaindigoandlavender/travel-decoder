@@ -5,6 +5,11 @@ export const metadata: Metadata = {
   title: "Cultural Decoder",
   description: "Self-guided forbidden knowledge. Marrakech.",
   manifest: "/manifest.json",
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: { index: false, follow: false },
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
