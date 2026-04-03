@@ -6,20 +6,20 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
-  darkMode: "media",
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-        terracotta: {
-          DEFAULT: "#C45D3E",
-          light: "#D4826A",
-          dark: "#A14A30",
-        },
+        background: "#1a1a1a",
+        foreground: "#f5f0e8",
+        terracotta: { DEFAULT: "#c4613a", light: "#d4826a", dark: "#a14a30" },
+        amber: { DEFAULT: "#d4915a", glow: "rgba(212,145,90,0.6)" },
+        cream: "#f5f0e8",
+        card: "#faf6f1",
+        muted: "#8a8078",
+        charcoal: "#1a1a1a",
       },
       fontFamily: {
-        serif: ["Playfair Display", "Georgia", "serif"],
+        serif: ["Cormorant Garamond", "Georgia", "serif"],
         sans: ["DM Sans", "system-ui", "sans-serif"],
       },
     },

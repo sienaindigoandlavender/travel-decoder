@@ -1,0 +1,30 @@
+[
+  {
+    "id": "seven-saints",
+    "title": "The Seven Saints of Marrakech",
+    "description": "Seven Sufi mystics, seven tombs, one pilgrimage route. Walk the path that most tourists never know exists.",
+    "points": ["zeyneb-tachfin", "sidi-bel-abbes", "patron-saint"],
+    "bonus_card": "The pilgrimage was formalised by Moulay Ismail to rival Fes. It's still walked today — mostly by Moroccans, rarely by outsiders. By completing this trail, you've done something most visitors to Marrakech never will."
+  },
+  {
+    "id": "guild-secrets",
+    "title": "The Guild Secrets",
+    "description": "Tanners, dyers, metalworkers, zellige masters. The craft guilds of the medina have guarded their techniques for centuries.",
+    "points": ["tanneries", "dyers-sky", "zellige", "lantern-makers", "carpet-code"],
+    "bonus_card": "Marrakech's craft guilds operate like medieval European guilds — knowledge passed from master to apprentice, family dynasties controlling specific trades. The techniques you've seen today have not been published in any book. They were shown to you by proximity."
+  },
+  {
+    "id": "women-of-marrakech",
+    "title": "The Women of Marrakech",
+    "description": "The women whose names were never in the guidebooks. The power behind the thrones, the midwives who crossed religious lines, the builders who were written out of history.",
+    "points": ["zeyneb-tachfin", "bahia-palace", "mellah-midwives", "fatima-fihri"],
+    "bonus_card": "Moroccan women have shaped this city for a thousand years. The medina was built by men but sustained by women — the ones who ran the households, managed the trades, raised the children who became the sultans. Their names are mostly lost. But their work is every wall you've touched today."
+  },
+  {
+    "id": "water-beneath",
+    "title": "The Invisible River",
+    "description": "Beneath the streets of Marrakech flows an ancient water system. Built a thousand years ago. Still functioning. Completely invisible.",
+    "points": ["khettaras", "chrob-ou-chouf", "mouassine-fountain"],
+    "bonus_card": "Marrakech was founded because of water — the khettaras brought snowmelt from the Atlas mountains through underground channels. Without them, the city could not exist. When you drink tap water in the medina, you're drinking from a system designed by 11th-century hydraulic engineers."
+  }
+]

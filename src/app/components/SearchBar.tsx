@@ -30,7 +30,6 @@ export default function SearchBar({ points, onSelect, onClose }: SearchBarProps)
     ? points.filter(
         (p) =>
           p.title.toLowerCase().includes(query.toLowerCase()) ||
-          p.subtitle.toLowerCase().includes(query.toLowerCase()) ||
           p.category.toLowerCase().includes(query.toLowerCase())
       )
     : [];
@@ -38,9 +37,7 @@ export default function SearchBar({ points, onSelect, onClose }: SearchBarProps)
   return (
     <div className="fixed inset-0 z-50">
       <div
-        className={`absolute inset-0 bg-black/20 transition-opacity duration-200 ${
-          visible ? "opacity-100" : "opacity-0"
-        }`}
+        className={`absolute inset-0 bg-black/40 transition-opacity duration-200 ${visible ? "opacity-100" : "opacity-0"}`}
         onClick={handleClose}
       />
 
@@ -48,22 +45,19 @@ export default function SearchBar({ points, onSelect, onClose }: SearchBarProps)
         className={`absolute top-0 inset-x-0 transition-transform duration-200 ${
           visible ? "translate-y-0" : "-translate-y-full"
         }`}
-        style={{ backgroundColor: "var(--card-bg)" }}
+        style={{ backgroundColor: "#1f1f1f" }}
       >
-        <div className="safe-area-top" />
         <div className="px-4 pt-12 pb-3 flex items-center gap-3">
           <input
             ref={inputRef}
             type="text"
-            placeholder="Search places..."
+            placeholder="Search secrets..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            className="flex-1 px-4 py-2.5 rounded-xl text-base font-sans bg-gray-100 dark:bg-gray-800 border-0 outline-none focus:ring-2 focus:ring-terracotta/50"
+            className="flex-1 px-4 py-2.5 rounded-xl text-base font-sans border-0 outline-none"
+            style={{ backgroundColor: "#2a2a2a", color: "#f5f0e8" }}
           />
-          <button
-            onClick={handleClose}
-            className="text-sm font-sans font-medium text-terracotta"
-          >
+          <button onClick={handleClose} className="text-sm font-sans font-medium" style={{ color: "#c4613a" }}>
             Cancel
           </button>
         </div>
@@ -73,15 +67,15 @@ export default function SearchBar({ points, onSelect, onClose }: SearchBarProps)
             {results.map((p) => (
               <button
                 key={p.id}
-                onClick={() => {
-                  onSelect(p);
-                  handleClose();
-                }}
-                className="w-full text-left px-4 py-3 rounded-xl hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors"
+                onClick={() => { onSelect(p); handleClose(); }}
+                className="w-full text-left px-4 py-3 rounded-xl transition-colors"
+                style={{ color: "#f5f0e8" }}
+                onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = "#2a2a2a")}
+                onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = "transparent")}
               >
                 <p className="text-sm font-medium font-sans">{p.title}</p>
-                <p className="text-xs text-gray-500 dark:text-gray-400">
-                  {p.subtitle}
+                <p className="text-xs" style={{ color: "#8a8078" }}>
+                  {p.category}
                 </p>
               </button>
             ))}

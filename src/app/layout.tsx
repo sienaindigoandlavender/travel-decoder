@@ -3,12 +3,12 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Cultural Decoder",
-  description: "Location-aware cultural intelligence for travellers",
+  description: "Self-guided forbidden knowledge. Marrakech.",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "Cultural Decoder",
+    title: "Decoder",
   },
 };
 
@@ -17,14 +17,12 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 1,
   userScalable: false,
-  themeColor: "#C45D3E",
+  themeColor: "#1a1a1a",
 };
 
 export default function RootLayout({
   children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+}: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
       <head>

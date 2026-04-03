@@ -2,23 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@400;500;600&display=swap");
 
 :root {
-  --background: #ffffff;
-  --foreground: #1a1a1a;
-  --card-bg: #ffffff;
-  --card-shadow: 0 -4px 30px rgba(0, 0, 0, 0.1);
-  --terracotta: #C45D3E;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0f0f0f;
-    --foreground: #e8e4e0;
-    --card-bg: #1a1a1a;
-    --card-shadow: 0 -4px 30px rgba(0, 0, 0, 0.4);
-  }
+  --background: #1a1a1a;
+  --foreground: #f5f0e8;
+  --card-bg: #faf6f1;
+  --card-fg: #1a1a1a;
+  --card-shadow: 0 -4px 40px rgba(0, 0, 0, 0.5);
+  --terracotta: #c4613a;
+  --amber: #d4915a;
+  --amber-glow: rgba(212, 145, 90, 0.6);
+  --muted: #8a8078;
 }
 
 * {
@@ -41,21 +36,84 @@ body {
   display: none !important;
 }
 
-/* Bottom sheet drag handle */
+/* Drag handle for bottom sheet */
 .drag-handle {
   width: 36px;
   height: 4px;
   border-radius: 2px;
-  background: #ccc;
+  background: #d4c8bc;
   margin: 8px auto;
 }
 
-@media (prefers-color-scheme: dark) {
-  .drag-handle {
-    background: #555;
-  }
+/* ── Ember markers on map ── */
+.ember-dot {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
-  .mapboxgl-map {
-    filter: brightness(0.85);
+.ember-core {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--amber);
+  position: relative;
+  z-index: 2;
+  box-shadow: 0 0 6px var(--amber-glow);
+}
+
+.ember-glow {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: var(--amber-glow);
+  opacity: 0.4;
+  animation: ember-pulse 3s ease-in-out infinite;
+  z-index: 1;
+}
+
+/* Discovered points: steady glow, no pulse */
+.ember-dot.discovered .ember-glow {
+  animation: none;
+  opacity: 0.2;
+}
+
+.ember-dot.discovered .ember-core {
+  background: #a07850;
+  box-shadow: 0 0 4px rgba(160, 120, 80, 0.4);
+}
+
+@keyframes ember-pulse {
+  0%, 100% {
+    transform: scale(0.6);
+    opacity: 0.3;
   }
+  50% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+}
+
+/* ── Card animations ── */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeInUp 0.3s ease-out forwards;
+}
+
+.animate-fade-in-delay {
+  opacity: 0;
+  animation: fadeInUp 0.3s ease-out 0.2s forwards;
 }
